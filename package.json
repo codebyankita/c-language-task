@@ -1,0 +1,23 @@
+{
+  "name": "c-programming",
+  "version": "1.0.0",
+  "description": "Welcome to Solving Challenges in C Programming repository! This repository is dedicated to providing a comprehensive collection of C programming resources, including over 100 C programming challenges, PDFs, and mini projects created in C programming. Whether you're a beginner or an experienced programmer, you'll find valuable content here to enhance your skills and deepen your understanding of the C language.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.5.0",
+    "typescript": "^5.8.3",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "@types/yargs": "^17.0.24"
+  }
+}
